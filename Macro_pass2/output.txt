@@ -1,0 +1,15 @@
+MOVER 10 , ARED 
+ADD 10 , ='1' 
+MOVER 20 ,  
+ADD 10 , ='5' 
+
+MOVER 100 , CRED 
+MOVER 200 , DREG 
+ADD 100 , ='15' 
+ADD 200 , ='10' 
+
+MOVER 100 , CRED 
+MOVER 200 , DREG 
+ADD 100 , ='15' 
+ADD 200 , ='10' 
+
